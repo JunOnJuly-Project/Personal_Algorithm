@@ -1,4 +1,4 @@
-# 로고 이미지
+# logo image
 meta_images/
-# Jupyter 캐시
+# Jupyter cache
 .ipynb_checkpoints
